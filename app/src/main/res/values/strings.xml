@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FragmentExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="sw">Switch</string>
+    <string name="hello_blank_fragmentOne">hello From Fragment One</string>
+    <string name="hello_blank_fragmentTwo">Hello From Fragment Two</string>
+
+</resources>
